@@ -1,0 +1,4 @@
+chat_history.txt
+__pycache__/
+*.pyc
+.idea/
